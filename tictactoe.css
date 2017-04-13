@@ -1,0 +1,41 @@
+.borderRight {
+  border-right-style: solid;
+  border-right-color: #238aa9;
+  border-right-width: medium;
+}
+
+.borderTop {
+  border-top-style: solid;
+  border-top-color: #238aa9;
+  border-top-width: medium;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 25px auto 75px auto;
+}
+
+body {
+  font-size: 16px;
+}
+
+td {
+  height: 150px;
+  width: 150px;
+  color: #238aa9;
+  font-size: 36px;
+}
+
+.page-header h1 {
+  color: #238aa9;
+}
+
+.page-header h1 small {
+  color: #5bc0de;
+}
+
+.message {
+  height: 75px;
+  font-size: 24px;
+  padding: 20px
+}
